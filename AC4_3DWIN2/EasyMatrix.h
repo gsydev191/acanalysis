@@ -3,6 +3,7 @@
 #include "Def.h"	
 #include <stdio.h>
 #include <stdlib.h>
+#include <cstdlib>
 #include <math.h>
 #include <windows.h>
 #include <xmmintrin.h>
